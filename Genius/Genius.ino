@@ -1,15 +1,15 @@
 #include "notas.h"
 
-const int SPEAKER = 7;
+const int SPEAKER = 12;
 
-const int LED_AZUL = 11;    //4
-const int LED_AMARELO = 10; //3
-const int LED_VERMELHO = 9; //2
-const int LED_VERDE = 8;    //1
+const int LED_AZUL = 9;    //4
+const int LED_AMARELO = 5; //3
+const int LED_VERMELHO = 7; //2
+const int LED_VERDE = 3;    //1
 
-const int BTN_AZUL = 5;
+const int BTN_AZUL = 8;
 const int BTN_AMARELO = 4;
-const int BTN_VERMELHO = 3;
+const int BTN_VERMELHO = 6;
 const int BTN_VERDE = 2;
 
 const int NOTA_AZUL = NOTE_B3;
